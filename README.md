@@ -1,7 +1,6 @@
-﻿Applove
-	Detalles generales
+﻿Applove  Detalles generales
 
-	Clonación de repositorio desde link enviado.
+Clonación de repositorio desde link enviado.
 1.	Se clonó en carpeta local para luego iniciarlo.
 2.	Al abrirlo se encuentra README, HTML y carpetas Css y Asset que contiene imágenes.
 3.	Se abre con editor de texto para luego realizar los cambios.
