@@ -1,5 +1,5 @@
-﻿#Applove  
-###Detalles generales
+﻿# Applove  
+### Detalles generales
 
 Clonación de repositorio desde link enviado.
 1.	Se clonó en carpeta local para luego iniciarlo.
